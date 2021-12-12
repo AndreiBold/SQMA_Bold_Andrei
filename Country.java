@@ -7,7 +7,7 @@ public class Country {
         this.population = population;
     }
 
-    public countryDetails() {
+    public String countryDetails() {
         return "This country has iso code " + isoCode + " and a pupulation of " + population + " people";
     }
 }

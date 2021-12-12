@@ -1,8 +1,6 @@
-package com.katas;
-
 import org.junit.Test;
 
-import static org.assertj.core.api.Assertions.assertThat;
+import static org.junit.Assert.*;
 
 public class GreeterTest {
     @Test
@@ -11,6 +9,6 @@ public class GreeterTest {
 
         String greeting = greeter.sayHello();
 
-        assertThat(greeting).isEqualTo("Hello, John Doe!");
+        assertEquals("Hello, John Doe!", greeting);
     }
 }

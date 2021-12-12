@@ -1,5 +1,3 @@
-package com.katas;
-
 public class Greeter {
 
 	private String name;
