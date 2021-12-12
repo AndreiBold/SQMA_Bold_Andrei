@@ -1,1 +1,2 @@
-# SQMA_Bold_Andrei
+Subject: Repo for ISM_SQMA_JENKINS_HOMEWORK
+Author: AndreiBold
